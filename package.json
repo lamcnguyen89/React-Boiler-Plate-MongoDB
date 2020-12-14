@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaab30/react-jwt-boiler-plate.git"
+    "url": "git+https://github.com/lamcnguyen89/React-Boiler-Plate-MongoDB.git"
   },
-  "author": "Jorge Alvarez",
+  "author": "Lam Nguyen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jaab30/react-jwt-boiler-plate/issues"
+    "url": "https://github.com/lamcnguyen89/React-Boiler-Plate-MongoDB/issues"
   },
-  "homepage": "https://github.com/jaab30/react-jwt-boiler-plate#readme",
+  "homepage": "https://github.com/lamcnguyen89/React-Boiler-Plate-MongoDBe#readme",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "concurrently": "^5.3.0",
